@@ -1,0 +1,108 @@
+body{
+	font-size: 1em;
+	max-width: 1024;
+	min-width: 1024;
+	color: grey;
+	margin: 0px auto;
+
+}
+footer section article {
+    top: 20px;
+}
+#s1{
+	padding-bottom: 30px;
+	padding-top: 25px;
+	background: grey:;
+}
+#s1 article{
+
+	display: inline-block;
+	vertical-align: top;
+	justify-content: center;	
+}
+#s1com{
+	position: relative;
+	background: blue;
+	padding-bottom: 300px;
+	margin-top: 400px;
+	padding-left: 30px;
+
+
+}
+#s1gris{
+	position: relative;
+	background: red;
+	margin-top: 400px;
+	padding-left: 260px;
+	padding-top: 30px;
+	padding-bottom: 140px;
+	padding-right: 50px;
+
+}
+#s1Com{
+	position: relative;
+	color: red;
+
+}
+#s2 article{
+	margin-top: -520px;
+	padding-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+#s2a1{
+	position: relative
+	top:50px;
+	background: blue;
+	padding-top: 80px;
+	padding-left: 40px;
+	padding-right: 150px;
+	padding-bottom: 80px;
+}
+#s2a2{
+	position: relative
+	top:50px;
+	background: #D3D3D3;
+	padding-top: 80px;
+	padding-left: 40px;
+	padding-right: 150px;
+	padding-bottom: 160px;
+}
+#s2a3{
+	position: relative
+	top:50px;
+	background: grey;
+	padding-top: 80px;
+	padding-left: 40px;
+	padding-right: 150px;
+	padding-bottom: 160px;
+}
+
+#persona{
+	margin-right: 75px;
+	padding-bottom: 480px;
+	position: relative;
+}
+
+#gris{
+	padding:  15px;
+}
+
+.nito{
+	font-weight: bold;
+}
+.letrachica{
+	size: 1.2em;
+}
+.letramediana{
+	size: 1.5em;
+}
+.letragrande{
+	size: 2.0em;
+}
+.colorblanco{
+	color: pink;
+.colornegro{
+	color: black;
+}

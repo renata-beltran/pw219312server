@@ -1,0 +1,11 @@
+body{
+	font-size: 1em;
+	max-width: 1024;
+	min-width: 1024;
+	color: grey;
+	margin: 0px auto;
+
+}
+#seccionUno{
+	border: 1px solid red;
+}
