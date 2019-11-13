@@ -9,7 +9,7 @@
     "start": "node src/app.js"
   },
   "keywords": [],
-  "author": "REYNA NUNEZ",
+  "author": "REYNA NUÑEZ",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.7.1",
